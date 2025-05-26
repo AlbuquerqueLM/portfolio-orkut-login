@@ -2,6 +2,10 @@
 
 Esta página de teste foi desenvolvida como um exercício de portfólio com o objetivo de treinar a **utilização básica de HTML e CSS**, apresentando uma releitura moderna e simplificada da clássica tela de login do Orkut®, rede social popular nos anos 2000.
 
+Você pode visualizar o resultado final diretamente no navegador acessando o link abaixo:
+
+👉 **[Acessar página de login via GitHub Pages](https://albuquerquelm.github.io/portfolio-orkut-login/)**
+
 ## Estrutura HTML 
 
 A estrutura base foi composta por:
